@@ -1,7 +1,7 @@
 #pragma once
-#include "cargo.h"
 #include "ship.h"
 #include "military.h"
+#include "cargo.h"
 
 using namespace std;
 
