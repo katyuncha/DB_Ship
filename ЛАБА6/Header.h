@@ -1,5 +1,8 @@
 #pragma once
 
+#include <iostream>
+#include <iomanip>
+#include <string>
 using namespace std;
 
 //базовый класс корабль
@@ -10,7 +13,7 @@ protected:
 public:
 	void setParameters (string name, int id_num);
 	int getValues1() { return id_num; };
-	string getValues2() { return name; };										
+	string getValues2() { return name; };										//чисто-виртуальная функция подсчета значений ВФСА
 	virtual void printFunction() = 0;
 	virtual void add() = 0;
 	virtual void show() = 0;

@@ -1,4 +1,4 @@
-#include "ship.h"
+#include "Header.h"
 
 void ship::setParameters(string name, int id_num)
 {

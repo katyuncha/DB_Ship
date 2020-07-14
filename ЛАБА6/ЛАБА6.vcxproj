@@ -151,17 +151,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="ship.cpp" />
-    <ClCompile Include="cargo.cpp" />
-    <ClCompile Include="military.cpp" />
-    <ClCompile Include="cargoMil.cpp" />
+    <ClCompile Include="Header.cpp" />
+    <ClCompile Include="Header1.cpp" />
+    <ClCompile Include="Header2.cpp" />
+    <ClCompile Include="Header3.cpp" />
     <ClCompile Include="ЛАБА6.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="ship.h" />
-    <ClInclude Include="cargo.h" />
-    <ClInclude Include="military.h" />
-    <ClInclude Include="cargoMil.h" />
+    <ClInclude Include="Header.h" />
+    <ClInclude Include="Header1.h" />
+    <ClInclude Include="Header2.h" />
+    <ClInclude Include="Header3.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

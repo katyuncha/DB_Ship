@@ -1,10 +1,10 @@
 ﻿#include <iostream>
 #include <clocale>
 #include <vector>
-#include "ship.h"
-#include "cargo.h"
-#include "military.h"
-#include "cargoMil.h"
+#include "Header.h"
+#include "Header1.h"
+#include "Header2.h"
+#include "Header3.h"
 #include<iostream>
 #include<cmath>
 using namespace std;

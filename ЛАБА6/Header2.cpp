@@ -1,4 +1,4 @@
-#include "military.h"
+#include "Header2.h"
 
 void military::printFunction()
 {
