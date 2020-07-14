@@ -1,4 +1,4 @@
-#include "nilitary.h"
+#include "military.h"
 
 void military::printFunction()
 {

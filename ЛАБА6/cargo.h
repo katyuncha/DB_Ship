@@ -1,9 +1,9 @@
 #pragma once
 #include "ship.h"
+
 #include <iostream>
 #include <iomanip>
 #include <string>
-
 using namespace std;
 
 //порожденный класс для грузового корабля

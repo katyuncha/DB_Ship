@@ -1,4 +1,4 @@
-#include "ship.h"
+#include "cargoMil.h"
 
 void cargoMil::add()
 {

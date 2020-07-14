@@ -18,30 +18,30 @@
     <ClCompile Include="ЛАБА6.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="Header.cpp">
+    <ClCompile Include="ship.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="Header1.cpp">
+    <ClCompile Include="cargo.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="Header2.cpp">
+    <ClCompile Include="military.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="Header3.cpp">
+    <ClCompile Include="cargoMil.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Header.h">
+    <ClInclude Include="ship.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="Header1.h">
+    <ClInclude Include="cargo.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="Header2.h">
+    <ClInclude Include="military.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="Header3.h">
+    <ClInclude Include="cargoMil.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
